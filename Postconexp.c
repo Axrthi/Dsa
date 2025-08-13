@@ -51,3 +51,4 @@ int main() {
  printf("Evaluated result: %d\n", evaluatePostfix(postfix));
  
  return 0;
+}
